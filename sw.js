@@ -1,4 +1,4 @@
-const CACHE_NAME = 'num-assign-v6';
+const CACHE_NAME = 'num-assign-v2';
 
 const ASSETS = [
   './',
