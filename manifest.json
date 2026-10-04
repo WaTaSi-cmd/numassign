@@ -1,9 +1,9 @@
 {
   "name": "番号割当アプリ",
   "short_name": "番号割当",
-  "id": "num-assign-v2",
-  "start_url": "/num-assign-v2/",
-  "scope": "/num-assign-v2/",
+  "id": "numassign",
+  "start_url": "/numassign/",
+  "scope": "/numassign/",
   "display": "standalone",
   "background_color": "#f0f4f8",
   "theme_color": "#627d98",
