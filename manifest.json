@@ -6,6 +6,7 @@
   "display": "standalone",
   "background_color": "#f0f4f8",
   "theme_color": "#627d98",
+  "id": "num-assign-v2",
   "icons": [
     {
       "src": "icon-192.png",
