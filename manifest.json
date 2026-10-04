@@ -2,7 +2,7 @@
   "name": "番号割当アプリ",
   "short_name": "番号割当",
   "id": "numassign",
-  "start_url": "/numassign/",
+  "start_url": "/numassign/index.html",
   "scope": "/numassign/",
   "display": "standalone",
   "background_color": "#f0f4f8",
