@@ -1,8 +1,8 @@
 {
   "name": "番号割当アプリ",
   "short_name": "番号割当",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/numassign/",
+  "scope": "/numassign/",
   "display": "standalone",
   "background_color": "#f0f4f8",
   "theme_color": "#627d98",
